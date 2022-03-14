@@ -1,0 +1,223 @@
+{
+    "personalInfo": {
+        "profilPhotos": [
+            "https://res.cloudinary.com/dumanlimert/image/upload/v1647125170/ProfilePhotos/oni6pqbxhayapwfv9oo9.jpg",
+            "https://res.cloudinary.com/dumanlimert/image/upload/v1647125170/ProfilePhotos/r9egbh2vlthrr0kbs0se.jpg"
+        ],
+        "position": [
+            "Software Specialist",
+            "Yazılım Uzmanı"
+        ],
+        "birthplace": [
+            "ödemiş",
+            "ödemiş"
+        ],
+        "birthdate": [
+            "January 12, 1998",
+            "12 Ocak 1998"
+        ],
+        "gender": [
+            "male",
+            "erkek"
+        ],
+        "maritalStatus": [
+            "single",
+            "bekâr"
+        ],
+        "nationality": [
+            "Republic of Turkey",
+            "Türkiye Cumhuriyeti"
+        ],
+        "militaryService": [
+            "Postponed",
+            "Tecilli"
+        ]
+    },
+    "contactAddresses": {
+        "twitter": "https://twitter.com/mertdumanli35/",
+        "instagram": "https://www.instagram.com/mertdumanli35/",
+        "facebook": "https://www.facebook.com/dumanlimert/",
+        "gmail": "mertdumanli.cse@gmail.com",
+        "gitHub": "https://github.com/mertdumanli",
+        "tel": 9005050103555
+    },
+    "map": {
+        "title": "My-House",
+        "url": "https://www.google.com/maps/d/embed?mid=15dCFh5l9yJV6KIiluEfFujtXzzub7m1S&ehbc=2E312F",
+        "openAddressEnglish": "Meşrutiyet district, Akasya street, number: 23 Ödemiş / İzmir / Turkey",
+        "openAddressTurkish": "Meşrutiyet mahallesi, Akasya sokak, numara: 23 Ödemiş / İzmir / Türkiye"
+    },
+    "itemColors": {
+        "twitter": [
+            "dodgerblue",
+            "white"
+        ],
+        "instagram": [
+            "red",
+            "white"
+        ],
+        "facebook": [
+            "#056fe5",
+            "white"
+        ],
+        "gmail": [
+            "red",
+            "white"
+        ],
+        "gitHub": [
+            "#161b22",
+            "white"
+        ],
+        "tel": [
+            "green",
+            "white"
+        ],
+        "mapOffCanvasHeader": [
+            "white",
+            "black"
+        ],
+        "mapOffCanvasTitle": [
+            "black",
+            "red"
+        ],
+        "mapOffCanvasBody": [
+            "white",
+            "black"
+        ]
+    },
+    "itemTexts": [
+        {
+            "name": "about",
+            "title": [
+                "About",
+                "Hakkında"
+            ],
+            "detailEnglish": [
+                "I have been working as a software specialist at Şekerbank since November 2021. I graduated from Manisa Celal Bayar University Computer Engineering Department in June 2021. Then I took 70 working days of distance learning at Bilge Adam Technologies. In this training program, I learned Java SE, Java EE, Spring Boot, Spring Security, RestApi, Spring Data JPA, Spring Boot Validation, ElasticSearch, Redis, Swagger, Servlet, JSP, Hibernate, JavaScript, jQuery, HTML, CSS, Bootstrap. I have developed many complete projects on these topics. Then I started my current job. Also if I were to describe myself mentally, i create my own world by writing code. I'm free in many ways in this world, there are some restrictions, but it's up to me to create options for them. I believe I can do anything when I make the necessary effort. This job is my childhood dream. It is said that I always have good relations with people. I am interested in adapting easily to new technologies, doing technical research and solving problems. I am always open to learning and improving myself."
+            ],
+            "detailTurkish": [
+                "Kasım 2021'den beri Şekerbank'ta yazılım uzmanı olarak çalışıyorum. Manisa Celal Bayar Üniversitesi Bilgisayar Mühendisliği Bölümü'nden Haziran 2021'de mezun oldum. Ardından Bilge Adam Technologies'de 70 iş günü uzaktan eğitim aldım. Bu eğitim programında Java SE, Java EE, Spring Boot, Spring Security, RestApi, Spring Data JPA, Spring Boot Validation, ElasticSearch, Redis, Swagger, Servlet, JSP, Hibernate, JavaScript, jQuery, HTML, CSS, Bootstrap öğrendim. . Bu konularda birçok eksiksiz proje geliştirdim. Sonra şimdiki işime başladım. Ayrıca kendimi zihinsel olarak tanımlayacak olursam, kod yazarak kendi dünyamı yaratıyorum. Bu dünyada birçok yönden özgürüm, bazı kısıtlamalar var ama onlar için seçenekler yaratmak benim elimde. Gerekli çabayı gösterdiğimde her şeyi yapabileceğime inanıyorum. Bu iş benim çocukluk hayalim. İnsanlarla her zaman iyi ilişkilerim olduğu söylenir. Yeni teknolojilere kolayca uyum sağlamak, teknik araştırma yapmak ve problem çözmekle ilgileniyorum. Her zaman öğrenmeye ve kendimi geliştirmeye açığım."
+            ]
+        },
+        {
+            "name": "education",
+            "title": [
+                "Education",
+                "Eğitim"
+            ],
+            "detailEnglish": [
+                "(2017 - 2021) Manisa Celal Bayar University - (Formal Education) Faculty of Engineering, Computer Engineering (100% English) - Grade: 2.88 / 4.00",
+                "(2016 - 2017) Manisa Celal Bayar University - (Formal Education) School of Foreign Languages - Grade: 72.00 / 100.00",
+                "(2015 - 2016) Private Maral Basic High School, İzmir",
+                "(2012 - 2015) Ödemiş Chamber of Commerce Anatolian Teacher High School, İzmir"
+            ],
+            "detailTurkish": [
+                "(2017 - 2021) Manisa Celal Bayar Üniversitesi - (Örgün Öğretim) Mühendislik Fakültesi, Bilgisayar Mühendisliği (%100 İngilizce) - Not: 4.00 / 2.88",
+                "(2016 - 2017) Manisa Celal Bayar Üniversitesi - (Örgün Öğretim) Yabancı Diller Yüksekokulu - Not: 100.00 / 72.00",
+                "(2015 - 2016) Özel Maral Temel Lisesi, İzmir",
+                "(2012 - 2015) Ödemiş Ticaret Odası Anadolu Öğretmen Lisesi, İzmir"
+            ]
+        },
+        {
+            "name": "internship",
+            "title": [
+                "Internship1",
+                "Staj"
+            ],
+            "detailEnglish": [
+                "Aybit Technology, Inc. - Software Department - 15 Weeks - 2021",
+                "Ödemiş Municipality - Information Technologies Departments - 20 Days - 2019"
+            ],
+            "detailTurkish": [
+                "Aybit Teknoloji A.Ş. - Yazılım Bölümü - 15 Hafta - 2021",
+                "Ödemiş Belediyesi - Bilgi İşlem Daire Başkanlığı - 20 Gün - 2019"
+            ]
+        },
+        {
+            "name": "foreignLanguage",
+            "title": [
+                "Foreign Language",
+                "Yabancı Dil"
+            ],
+            "detailEnglish": [
+                "English - Read B2 - Write B2 - Speaking A2"
+            ],
+            "detailTurkish": [
+                "İngilizce - Okuma B2 - Yazma B2 - Konuşma A2"
+            ]
+        },
+        {
+            "name": "skills",
+            "title": [
+                "Skills",
+                "Yetenekler"
+            ],
+            "detailEnglish": [
+                "Java SE, Java EE, Spring Boot, React, React Native, Spring Security, RestApi, Spring Data JPA, Spring Boot Validation, ElasticSearch, Redis, Swagger, Servlet, JSP, Hibernate, JavaScript, jQuery, HTML, CSS, Bootstrap, Sql, Visual Studio Code, Microsoft Office Programs"
+            ],
+            "detailTurkish": [
+                "Java SE, Java EE, Spring Boot, React, React Native, Spring Security, RestApi, Spring Data JPA, Spring Boot Validation, ElasticSearch, Redis, Swagger, Servlet, JSP, Hibernate, JavaScript, jQuery, HTML, CSS, Bootstrap, Sql, Visual Studio Code, Microsoft Ofis Programları"
+            ]
+        },
+        {
+            "name": "hobbies",
+            "title": [
+                "Hobbies",
+                "Hobiler"
+            ],
+            "detailEnglish": [
+                "Creating algorithms, solving probability problems, history, exploring different places, basketball, football, table tennis and chess."
+            ],
+            "detailTurkish": [
+                "Algoritma oluşturma, olasılık problemlerini çözme, tarih, farklı yerler keşfetme, basketbol, futbol, masa tenisi ve satranç."
+            ]
+        },
+        {
+            "name": "eventsAndCertificates",
+            "title": [
+                "Events And Certificates",
+                "Etkinlikler ve Sertifikalar"
+            ],
+            "detailEnglish": [
+                "Web Programming with REACT, March 17, 2021 - Information Technologies and Communications Authority (ICTA)",
+                "Web Development with HTML5, Feb 09, 2021 - ICTA",
+                "Introduction to Programming with JAVA, Feb 09, 2021 - ICTA",
+                "Website building training with WordPress, May 16, 2019 - WPOKULU",
+                "EBZ19 Conference 'Aegean Informatics Summit', April 30, 2019",
+                "Public Speaking and Oratory Art Certificate - Joven Academia - The Joven Academia Personal Development Summit (JAPDS), March 19, 2019",
+                "Entrepreneurship Certificate - JAPDS",
+                "Body Language & Diction Certificate - JAPDS",
+                "Artificial Intelligence Conference, March 16, 2019 - Ege University IEEE Student Branch - IEEE Women in Engineering - Butterfly Effect in Business Life"
+            ],
+            "detailTurkish": [
+                "REACT ile Web Programlama, 17 Mart 2021 - Bilgi Teknolojileri ve İletişim Kurumu (BTK)",
+                "HTML5 ile Web Geliştirme, 09 Şubat 2021 - BTK",
+                "JAVA ile Programlamaya Giriş, 09 Şubat 2021 - BTK",
+                "WordPress ile web sitesi oluşturma eğitimi, 16 Mayıs 2019 - WPOKULU",
+                "EBZ19 Konferansı 'Ege Bilişim Zirvesi', 30 Nisan 2019",
+                "Topluluk Önünde Konuşma ve Hitabet Sanatı Sertifikası - Joven Academia - Joven Academia Kişisel Gelişim Zirvesi (JAKGS), 19 Mart 2019",
+                "Girişimcilik Sertifikası - JAKGS",
+                "Beden Dili & Diksiyon Sertifikası - JAKGS",
+                "Yapay Zeka Konferansı, 16 Mart 2019 - Ege Üniversitesi IEEE Öğrenci Kolu - IEEE Mühendislikte Kadınlar - İş Hayatında Kelebek Etkisi"
+            ]
+        }
+    ],
+    "musics": {
+        "links": [
+            "https://res.cloudinary.com/dumanlimert/video/upload/v1647204303/freeMusicByPixabay/idgvctjywjejceddafdt.mp3",
+            "https://res.cloudinary.com/dumanlimert/video/upload/v1647204341/freeMusicByPixabay/ffvlhoykfxrog6lgghj8.mp3",
+            "https://res.cloudinary.com/dumanlimert/video/upload/v1647204382/freeMusicByPixabay/knz9fjftjipnl2bxsgqd.mp3",
+            "https://res.cloudinary.com/dumanlimert/video/upload/v1647204473/freeMusicByPixabay/b5jnlyzull0hrqwceift.mp3",
+            "https://res.cloudinary.com/dumanlimert/video/upload/v1647204512/freeMusicByPixabay/apsduhkuf7ewhblfz2yi.mp3",
+            "https://res.cloudinary.com/dumanlimert/video/upload/v1647204535/freeMusicByPixabay/gdlh6nzt0ybewnvey0bf.mp3"
+        ],
+        "names": [
+            "Cinematic Piano - Lesfm",
+            "Lovely Time - SergeQuadrado",
+            "Cinematic Piano Emotions - Musictown",
+            "Come Back Home - Olexy",
+            "Piano Moment - ZakharValaha",
+            "Emotional Piano Sad Background Music For Videos - Lesfm"
+        ]
+    }
+}

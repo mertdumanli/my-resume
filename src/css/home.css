@@ -1,0 +1,51 @@
+#socialMedia {
+	height: 30px;
+	width: 30px
+}
+
+/*Accordion ->*/
+/*Başlık kapalı*/
+.accordion-header.darkmode>button.collapsed {
+	background-color: rgb(31, 27, 27) !important;
+	color: green;
+}
+
+/*Başlık açık*/
+.accordion-header.darkmode>button {
+	background-color: rgb(31, 27, 27) !important;
+	
+	color: red;
+}
+
+/*Metin kapalı çerçeve*/
+.accordion-body.darkmode {
+	background-color: rgb(31, 27, 27) !important;
+}
+
+/*Metin açık çerçeve*/
+.show>.accordion-body.darkmode {
+	background-color: rgb(31, 27, 27) !important;
+}
+
+/*Metin açık metin*/
+.show>.accordion-body.darkmode>.list-group>.list-group-item {
+	background-color: rgb(31, 27, 27) !important;
+	color: aqua;
+}
+
+/*Metin kapalı metin*/
+.accordion-body.darkmode>.list-group>.list-group-item {
+	background-color: rgb(31, 27, 27) !important;
+	color: aqua;
+}
+
+/*Personal Info ->*/
+.list-group>.darkmode {
+	background-color: rgb(31, 27, 27) !important;
+	color: yellowgreen;
+}
+
+.card.darkmode{
+	background-color: rgb(31, 27, 27) !important;
+	color: yellowgreen;
+}
